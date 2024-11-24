@@ -1,6 +1,6 @@
 # Criando uma API REST com Node.js, TypeScript e SQLite
 
-Este tutorial descreve como criar uma aplicação REST API com Node.js e TypeScript usando o framework Express e SQLite como banco de dados. Ele cobre desde a criação de um projeto Node básico até a implementação de funcionalidades como rotas para operações CRUD (Create, Read, Update, Delete) para gerenciar itens em uma base de dados SQLite.
+Este projeto cria uma aplicação REST API com Node.js e TypeScript usando o framework Express e SQLite como banco de dados. Ele cobre desde a criação de um projeto Node básico até a implementação de funcionalidades como rotas para operações CRUD (Create, Read, Update, Delete) para gerenciar itens em uma base de dados SQLite.
 
 ## Estrutura do Projeto
 
